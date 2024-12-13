@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"testing"
 
+	static "github.com/canyinghao/gin-static"
 	"github.com/gin-gonic/gin"
-	static "github.com/soulteary/gin-static"
 	"github.com/stretchr/testify/assert"
 )
 

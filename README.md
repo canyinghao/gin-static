@@ -1,9 +1,9 @@
 # Gin Static Middleware
 
-[![Run Tests](https://github.com/soulteary/gin-static/actions/workflows/go.yml/badge.svg)](https://github.com/soulteary/gin-static/actions/workflows/go.yml)
-[![codecov](https://codecov.io/gh/soulteary/gin-static/graph/badge.svg?token=8Z9AVSBNMG)](https://codecov.io/gh/soulteary/gin-static)
-[![Go Report Card](https://goreportcard.com/badge/github.com/soulteary/gin-static)](https://goreportcard.com/report/github.com/soulteary/gin-static)
-[![GoDoc](https://godoc.org/github.com/soulteary/gin-static?status.svg)](https://godoc.org/github.com/soulteary/gin-static)
+[![Run Tests](https://github.com/canyinghao/gin-static/actions/workflows/go.yml/badge.svg)](https://github.com/canyinghao/gin-static/actions/workflows/go.yml)
+[![codecov](https://codecov.io/gh/canyinghao/gin-static/graph/badge.svg?token=8Z9AVSBNMG)](https://codecov.io/gh/canyinghao/gin-static)
+[![Go Report Card](https://goreportcard.com/badge/github.com/canyinghao/gin-static)](https://goreportcard.com/report/github.com/canyinghao/gin-static)
+[![GoDoc](https://godoc.org/github.com/canyinghao/gin-static?status.svg)](https://godoc.org/github.com/canyinghao/gin-static)
 
 **No Security Error, No uncovered function, No obsolete code.**
 
@@ -17,13 +17,13 @@
 Download and install it:
 
 ```bash
-go get github.com/soulteary/gin-static
+go get github.com/canyinghao/gin-static
 ```
 
 Import it in your code:
 
 ```go
-import "github.com/soulteary/gin-static"
+import "github.com/canyinghao/gin-static"
 ```
 
 ## Example
@@ -40,7 +40,7 @@ package main
 import (
 	"log"
 
-	static "github.com/soulteary/gin-static"
+	static "github.com/canyinghao/gin-static"
 	"github.com/gin-gonic/gin"
 )
 

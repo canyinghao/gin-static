@@ -35,4 +35,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/soulteary/gin-static => ../../
+replace github.com/canyinghao/gin-static => ../../

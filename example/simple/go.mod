@@ -4,7 +4,7 @@ go 1.23.0
 
 require (
 	github.com/gin-gonic/gin v1.10.0
-	github.com/soulteary/gin-static v0.2.1
+	github.com/canyinghao/gin-static v0.2.1
 )
 
 require (
@@ -38,4 +38,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/soulteary/gin-static => ../../
+replace github.com/canyinghao/gin-static => ../../

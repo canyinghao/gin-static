@@ -1,4 +1,4 @@
-module github.com/soulteary/gin-static
+module github.com/canyinghao/gin-static
 
 go 1.23.3
 
@@ -40,4 +40,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/soulteary/gin-static => ./
+replace github.com/canyinghao/gin-static => ./
