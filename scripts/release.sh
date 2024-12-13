@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OWNER=soulteary
+OWNER=canyinghao
 REPO=gin-static
 
 command -v curl >/dev/null 2>&1 || { echo "需要安装 curl"; exit 1; }
